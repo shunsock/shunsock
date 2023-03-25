@@ -1,10 +1,11 @@
 ## Profile
-I’m a serverside engineer. My hobby is creating apps with ml model and reading books on technology.
+I’m a Serverside Engineer. My hobby is creating apps with ml model and reading books on technology.
 
 ### Career
 - PR TIMES (ML Engineer Intern): 2022/02/01 - now
 
 ### Certificate & Award
+- [YAPC::Kyoto 2023 LT大会](https://yapcjapan.org/2023kyoto/) :The Best LT
 - [Japan Statistical society Certificate](https://www.toukei-kentei.jp/) :Grade Pre-1
 - [PR TIMES Hackathon](https://www.wantedly.com/projects/796082) :individual award
 
@@ -16,6 +17,9 @@ I’m a serverside engineer. My hobby is creating apps with ml model and reading
 ### PR TIMES開発者ブログ
 - [日本語機械学習開発環境の作成](https://developers.prtimes.jp/2023/01/26/create_ml_env/)
 - [新旧字体の表記ゆれを統一するために互換表を作成した話](https://developers.prtimes.jp/2022/11/18/change_word_form/)
+
+### はてなブログ
+- [YAPC::Kyoto 2023 ベストLT賞をいただいた話](https://shundeveloper.hatenablog.com/entry/2023/03/21/135437)
 
 ### Zenn
 - [[AI・機械学習] GPT Indexを体験してきたので感想やかかった費用を書いていく](https://zenn.dev/shundeveloper/articles/059ff1543946c5)
