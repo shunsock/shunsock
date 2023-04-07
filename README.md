@@ -2,7 +2,8 @@
 I’m a Serverside Engineer. My hobby is creating apps with ml model and reading books on technology.
 
 ### Career
-- PR TIMES (ML Engineer Intern): 2022/02/01 - now
+- PR TIMES (ML Engineer Intern): 2022/02/01 - 2023/03/31
+- PR TIMES (Software Engineer): 2023/04/01 - now
 
 ### Certificate & Award
 - [YAPC::Kyoto 2023 LT大会](https://yapcjapan.org/2023kyoto/) :The Best LT
