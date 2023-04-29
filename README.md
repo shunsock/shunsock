@@ -2,8 +2,8 @@
 I’m a Serverside Engineer. My hobby is creating apps with ml model and reading books on technology.
 
 ### Career
-- PR TIMES (ML Engineer Intern): 2022/02/01 - 2023/03/31
-- PR TIMES (Software Engineer): 2023/04/01 - now
+- PR TIMES (Machine Learning Engineer Intern): 2022/02/01 - 2023/03/31
+- PR TIMES (Machine Learning Engineer): 2023/04/01 - now
 
 ### Certificate & Award
 - [YAPC::Kyoto 2023 LT大会](https://yapcjapan.org/2023kyoto/) :The Best LT
@@ -20,9 +20,13 @@ I’m a Serverside Engineer. My hobby is creating apps with ml model and reading
 - [新旧字体の表記ゆれを統一するために互換表を作成した話](https://developers.prtimes.jp/2022/11/18/change_word_form/)
 
 ### はてなブログ
+- [入社エントリ PR TIMES](https://shundeveloper.hatenablog.com/entry/entry_prtimes?_ga=2.3977136.1644655810.1682752716-479239798.1680491954)
+- [PHPerKaigiに参加してきました](https://shundeveloper.hatenablog.com/entry/phperkaigi_2023?_ga=2.3977136.1644655810.1682752716-479239798.1680491954)
 - [YAPC::Kyoto 2023 ベストLT賞をいただいた話](https://shundeveloper.hatenablog.com/entry/2023/03/21/135437)
 
 ### Zenn
+- [[統計学] ポアソンの小数法則の証明と可視化](https://zenn.dev/shundeveloper/articles/77f3739af0214b)
+- [[Web] Streamlitのupdateの確認](https://zenn.dev/shundeveloper/articles/26ecb0d281dac6)
 - [[AI・機械学習] GPT Indexを体験してきたので感想やかかった費用を書いていく](https://zenn.dev/shundeveloper/articles/059ff1543946c5)
 - [[統計学] 畳み込み積分と確率変数の和 を読みました](https://zenn.dev/shundeveloper/articles/871ed8111e61ef)
 - [[Web] DockerとDocker Compose(v2)のインストールを自動化](https://zenn.dev/shundeveloper/articles/f10826b44f04d7)
