@@ -18,4 +18,4 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
