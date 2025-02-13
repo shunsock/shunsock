@@ -17,3 +17,5 @@
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunsock&layout=compact&theme=dracula" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
